@@ -64,7 +64,7 @@ document
     const subject = document.getElementById("subject").value.trim();
     const message = document.getElementById("message").value.trim();
 
-    const whatsappNumber = "5548210930";
+    const whatsappNumber = "525548210930";
 
     const whatsappMessage = `Hello, my name is ${fullName}.%0AEmail: ${email}%0AMobile: ${mobile}%0ASubject: ${subject}%0A%0A${message}`;
 
