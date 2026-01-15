@@ -45,6 +45,10 @@ body {
   transition: 0.3s;
 }
 
+.pageLink {
+  color: var(--main-color);
+}
+
 .header.sticky {
   background: var(--bg-color);
 }
